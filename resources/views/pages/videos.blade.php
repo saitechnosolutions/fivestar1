@@ -55,7 +55,7 @@
                         <div class="image">
                           <img src="images/gal2.webp" alt="cook"/>
                           <div class="overlay">
-                              <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/IXS8CqBiTrY"><i class=" icon-eye6"></i></a>
+                              <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/2CyWrcXq_bo"><i class=" icon-eye6"></i></a>
                               {{-- <a class="fancybox overlay-inner" href="images/gal1.webp" data-fancybox-group="gallery"><i class=" icon-eye6"></i></a> --}}
                           </div>
                         </div>
@@ -69,7 +69,7 @@
                         <div class="image">
                           <img src="images/gal4.webp" alt="cook"/>
                           <div class="overlay">
-                              <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/IXS8CqBiTrY"><i class=" icon-eye6"></i></a>
+                              <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/QtQY8NXBo04"><i class=" icon-eye6"></i></a>
                               {{-- <a class="fancybox overlay-inner" href="images/gal1.webp" data-fancybox-group="gallery"><i class=" icon-eye6"></i></a> --}}
                           </div>
                         </div>
@@ -83,7 +83,7 @@
                         <div class="image">
                           <img src="images/gal5.webp" alt="cook"/>
                           <div class="overlay">
-                              <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/IXS8CqBiTrY"><i class=" icon-eye6"></i></a>
+                              <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/6rfBcImd-20"><i class=" icon-eye6"></i></a>
                               {{-- <a class="fancybox overlay-inner" href="images/gal1.webp" data-fancybox-group="gallery"><i class=" icon-eye6"></i></a> --}}
                           </div>
                         </div>
