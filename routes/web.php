@@ -1,6 +1,8 @@
 <?php
 
+use App\Http\Controllers\ContactController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\EventController;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,3 +23,7 @@ Route::view('gallery','pages.gallery');
 Route::view('contact','pages.contact');
 Route::view('aboutus','pages.aboutus');
 Route::view('videos','pages.videos');
+// Route::view('events','pages.events');
+Route::resource('/events',EventController::class);
+Route::GET('eventdetail/{id}',[EventController::class,'eventdetail']);
+Route::POST('formsubmit',[ContactController::class,'formsubmit']);

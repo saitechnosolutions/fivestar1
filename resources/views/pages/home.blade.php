@@ -388,77 +388,59 @@
         <div class="col-md-12">
           <div class="cheffs_wrap_slider">
             <div id="news-slider" class="owl-carousel">
-              <div class="item">
-                <div class="news_content">
-                 {{-- <img src="images/news-img3.jpg" alt="Docotor"> --}}
-                 <iframe width="370" height="250" src="https://www.youtube.com/embed/IXS8CqBiTrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                 {{-- <div class="date_comment">
-                    <span>22<small>apr</small></span>
-                    <a href="#."><i class="icon-comment"></i> 5</a>
-                 </div>
-                 <div class="comment_text">
-                   <h3><a href="#.">Lorem ipsum dolor</a></h3>
-                   <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore nulla facilisis.</p>
-                 </div> --}}
+                <div class="item">
+                    <div class="wrap-col">
+                        <div class="item-container">
+                          <div class="image">
+                            <img src="images/gal1.webp" alt="cook"/>
+                            <div class="overlay">
+                                <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/IXS8CqBiTrY?rel=0"><i class=" icon-eye6"></i></a>
+                                {{-- <a class="fancybox overlay-inner" href="images/gal1.webp" data-fancybox-group="gallery"><i class=" icon-eye6"></i></a> --}}
+                            </div>
+                          </div>
+                        </div>
+                      </div>
                 </div>
-              </div>
-              <div class="item">
-                <div class="news_content">
-                    <iframe width="370" height="250" src="https://www.youtube.com/embed/6rfBcImd-20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                 {{-- <img src="images/news-img2.jpg" alt="Docotor">
-                 <div class="date_comment">
-                    <span>22<small>apr</small></span>
-                    <a href="#."><i class="icon-comment"></i> 5</a>
-                 </div>
-                 <div class="comment_text">
-                   <h3><a href="#.">Lorem ipsum</a></h3>
-                   <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore nulla facilisis.</p>
-                 </div> --}}
+                <div class="item">
+                    <div class="wrap-col">
+                        <div class="item-container">
+                          <div class="image">
+                            <img src="images/gal2.webp" alt="cook"/>
+                            <div class="overlay">
+                                <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/2CyWrcXq_bo?rel=0"><i class=" icon-eye6"></i></a>
+                                {{-- <a class="fancybox overlay-inner" href="images/gal1.webp" data-fancybox-group="gallery"><i class=" icon-eye6"></i></a> --}}
+                            </div>
+                          </div>
+                        </div>
+                      </div>
                 </div>
-              </div>
+                <div class="item">
+                    <div class="wrap-col">
+                        <div class="item-container">
+                          <div class="image">
+                            <img src="images/gal4.webp" alt="cook"/>
+                            <div class="overlay">
+                                <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/QtQY8NXBo04?rel=0"><i class=" icon-eye6"></i></a>
+                                {{-- <a class="fancybox overlay-inner" href="images/gal1.webp" data-fancybox-group="gallery"><i class=" icon-eye6"></i></a> --}}
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                </div>
+                <div class="item">
+                    <div class="wrap-col">
+                        <div class="item-container">
+                          <div class="image">
+                            <img src="images/gal5.webp" alt="cook"/>
+                            <div class="overlay">
+                                <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/6rfBcImd-20?rel=0"><i class=" icon-eye6"></i></a>
+                                {{-- <a class="fancybox overlay-inner" href="images/gal1.webp" data-fancybox-group="gallery"><i class=" icon-eye6"></i></a> --}}
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                </div>
 
-              <div class="item">
-                <div class="news_content">
-                    <iframe width="370" height="250" src="https://www.youtube.com/embed/2CyWrcXq_bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                 {{-- <img src="images/news-img3.jpg" alt="Docotor"> --}}
-                 {{-- <div class="date_comment">
-                    <span>22<small>apr</small></span>
-                     <a href="#."><i class="icon-comment"></i> 5</a>
-                 </div>
-                 <div class="comment_text">
-                   <h3><a href="#.">Lorem dolor</a></h3>
-                   <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore nulla facilisis.</p>
-                 </div> --}}
-                </div>
-              </div>
-              <div class="item">
-                <div class="news_content">
-                    <iframe width="370" height="250" src="https://www.youtube.com/embed/IXS8CqBiTrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                 {{-- <img src="images/news-img2.jpg" alt="Docotor">
-                 <div class="date_comment">
-                    <span>22<small>apr</small></span>
-                     <a href="#."><i class="icon-comment"></i> 5</a>
-                 </div>
-                 <div class="comment_text">
-                   <h3><a href="#.">Lorem ipsum dolor</a></h3>
-                   <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore nulla facilisis.</p>
-                 </div> --}}
-                </div>
-              </div>
-              <div class="item">
-                <div class="news_content">
-                    <iframe width="370" height="250" src="https://www.youtube.com/embed/IXS8CqBiTrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                 {{-- <img src="images/news-img1.jpg" alt="Docotor">
-                 <div class="date_comment">
-                    <span>22<small>apr</small></span>
-                     <a href="#."><i class="icon-comment"></i> 5</a>
-                 </div>
-                 <div class="comment_text">
-                   <h3><a href="#.">Lipsum dolor</a></h3>
-                   <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore nulla facilisis.</p>
-                 </div> --}}
-                </div>
-              </div>
             </div>
           </div>
         </div>

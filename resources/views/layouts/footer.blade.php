@@ -2,7 +2,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4 col-sm-6 footer_column">
-            <img src="images/logo.png" alt="logo" style="background-color:#fff;padding:10px;border-radius:15px" class="img-responsive">
+            <img src="/images/logo.png" alt="logo" style="background-color:#fff;padding:10px;border-radius:15px" class="img-responsive">
           {{-- <h4 class="heading">Why Bistro?</h4>
           <hr class="half_space">
           <p class="half_space">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore dolor in hendrerit in vulputate.</p>
@@ -12,12 +12,12 @@
           <h4 class="heading">Quick Links</h4>
           <hr class="half_space">
           <ul class="widget_links">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About Us</a></li>
-            <li><a href="#">Gallery</a></li>
-            <li><a href="#">Events</a></li>
-            <li><a href="#">Videos</a></li>
-            <li><a href="#">Contact Us</a></li>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About Us</a></li>
+            <li><a href="/gallery">Gallery</a></li>
+            <li><a href="/events">Events</a></li>
+            <li><a href="/videos">Videos</a></li>
+            <li><a href="/contact">Contact Us</a></li>
           </ul>
         </div>
 

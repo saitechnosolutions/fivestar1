@@ -36,7 +36,8 @@
             <div class="col-md-8 col-sm-8">
               <h2 class="heading">Get in Touch</h2>
               <hr class="heading_space">
-              <form class="callus" onSubmit="return false"  id="contact_form">
+              <form class="callus"  action="/formsubmit" id="contact_form" method="POST">
+                @csrf
                 <div class="row">
                  <div class="col-md-12">
                     <div id="result" class="text-center form-group"></div>
@@ -48,7 +49,7 @@
                   </div>
                   <div class="col-md-6">
                     <div class="form-group">
-                      <input class="form-control" type="text" name="l_name" id="l_name"  placeholder="Subject" required />
+                      <input class="form-control" type="text" name="subject" id="l_name"  placeholder="Subject" required />
                     </div>
                   </div>
                   <div class="col-md-6">
@@ -65,6 +66,11 @@
                     <div class="form-group">
                       <textarea placeholder="Message" name="message" id="message"></textarea>
                     </div>
+                    @if(session()->get('success'))
+                    <div class="alert alert-success" role="alert">
+                        {{session()->get('success')}}
+                    </div>
+                    @endif
                     <div class="form-group">
                        <div class="btn-submit button3">
                       <input type="submit" value="Submit" id="btn_contact_submit">
