@@ -42,13 +42,13 @@
 
 @show
 
-<a href="https://www.google.com/maps/place/Fivestar+Garden/@11.0687856,76.8858412,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8590fd628f909:0x9a742ad73ad5b2b7!8m2!3d11.0687856!4d76.8880299!16s%2Fg%2F11qmsyf_m6?coh=164777&entry=tt" title="whatsapp" class="btn btn-default location-btn">
+<a target="_blank" href="https://www.google.com/maps/place/Fivestar+Garden/@11.0687856,76.8858412,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8590fd628f909:0x9a742ad73ad5b2b7!8m2!3d11.0687856!4d76.8880299!16s%2Fg%2F11qmsyf_m6?coh=164777&entry=tt" title="Location" class="btn btn-default location-btn">
     <i class="fa fa-map-marker"></i>
 </a>
-<a href="https://api.whatsapp.com/send?phone=+91-8098789789" title="whatsapp" class="btn btn-default whatsapp-btn">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=+91-8098789789" title="whatsapp" class="btn btn-default whatsapp-btn">
     <i class="fa fa-whatsapp"></i>
 </a>
-<a href="tel:+91-8098789789" title="whatsapp" class="btn btn-default call-btn">
+<a href="tel:+91-8098789789" title="Call Now"  class="btn btn-default call-btn">
     <i class="fa fa-phone"></i>
 </a>
 <!--Footer-->

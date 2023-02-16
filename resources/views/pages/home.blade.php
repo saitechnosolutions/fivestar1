@@ -93,17 +93,17 @@
       <div class="row">
         <div class="col-md-3 col-sm-6 feature text-center">
           <i class="icon-glass"></i>
-          <h3><a href="/">Dining</a></h3>
+          <h3><a >Dining</a></h3>
           <p> A pleasant climate can have positive effects on mental health and well-being</p>
         </div>
         <div class="col-md-3 col-sm-6 feature text-center">
           <i class="icon-coffee"></i>
-          <h3><a href="/">Natural Ambience</a></h3>
+          <h3><a >Natural Ambience</a></h3>
           <p> A pleasant climate can have positive effects on mental health and well-being</p>
         </div>
         <div class="col-md-3 col-sm-6 feature text-center">
           <i class="icon-glass"></i>
-          <h3><a href="/">Pleasant Climate</a></h3>
+          <h3><a >Pleasant Climate</a></h3>
           <p> A pleasant climate can have positive effects on mental health and well-being</p>
         </div>
         <div class="col-md-3 col-sm-6 feature text-center">
@@ -129,17 +129,17 @@
             <div class="item">
               <div class="item_inner">
               <div class="image">
-                <img src="images/pro1.webp" alt="Services Image">
+                <img src="images/eve1.png" alt="Services Image">
                 <a  href="/"></a>
               </div>
-                <h3><a href="/">Corporate Events</a></h3>
+                <h3><a href="/">Birthday Function</a></h3>
                 <p>A large gathering of professionals and experts in a particular field or industry to discuss and share ideas, knowledge, and advancements.</p>
               </div>
             </div>
             <div class="item">
               <div class="item_inner">
                 <div class="image">
-                <img src="images/pro2.webp" alt="Services Image">
+                <img src="images/eve2.png" alt="Services Image">
                 <a  href="/"></a>
                 </div>
                 <h3><a href="/">Family Parties</a></h3>
@@ -149,7 +149,7 @@
             <div class="item">
               <div class="item_inner">
                 <div class="image">
-                <img src="images/pro1.webp" alt="Services Image">
+                <img src="images/eve3.png" alt="Services Image">
                 <a  href="/"></a>
                 </div>
                 <h3><a href="/">Friends Get together</a></h3>
@@ -159,10 +159,10 @@
             <div class="item">
               <div class="item_inner">
                 <div class="image">
-                <img src="images/pro2.webp" alt="Services Image">
+                <img src="images/eve1.png" alt="Services Image">
                 <a  href="/"></a>
                 </div>
-                <h3><a href="/">Friends Get together</a></h3>
+                <h3><a href="/">Birthday Function</a></h3>
                 <p>A friends get together is a social gathering where friends come together to catch up, socialize, and spend time with each other</p>
               </div>
             </div>
@@ -394,7 +394,7 @@
                           <div class="image">
                             <img src="images/gal1.webp" alt="cook"/>
                             <div class="overlay">
-                                <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/IXS8CqBiTrY?rel=0"><i class=" icon-eye6"></i></a>
+                                <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/IXS8CqBiTrY?rel=0"><i class="fa fa-play"></i></a>
                                 {{-- <a class="fancybox overlay-inner" href="images/gal1.webp" data-fancybox-group="gallery"><i class=" icon-eye6"></i></a> --}}
                             </div>
                           </div>
@@ -407,7 +407,7 @@
                           <div class="image">
                             <img src="images/gal2.webp" alt="cook"/>
                             <div class="overlay">
-                                <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/2CyWrcXq_bo?rel=0"><i class=" icon-eye6"></i></a>
+                                <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/2CyWrcXq_bo?rel=0"><i class="fa fa-play"></i></a>
                                 {{-- <a class="fancybox overlay-inner" href="images/gal1.webp" data-fancybox-group="gallery"><i class=" icon-eye6"></i></a> --}}
                             </div>
                           </div>
@@ -420,7 +420,7 @@
                           <div class="image">
                             <img src="images/gal4.webp" alt="cook"/>
                             <div class="overlay">
-                                <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/QtQY8NXBo04?rel=0"><i class=" icon-eye6"></i></a>
+                                <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/QtQY8NXBo04?rel=0"><i class="fa fa-play"></i></a>
                                 {{-- <a class="fancybox overlay-inner" href="images/gal1.webp" data-fancybox-group="gallery"><i class=" icon-eye6"></i></a> --}}
                             </div>
                           </div>
@@ -433,7 +433,7 @@
                           <div class="image">
                             <img src="images/gal5.webp" alt="cook"/>
                             <div class="overlay">
-                                <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/6rfBcImd-20?rel=0"><i class=" icon-eye6"></i></a>
+                                <a class="video fancybox.iframe overlay-inner" href="https://www.youtube.com/embed/6rfBcImd-20?rel=0"><i class="fa fa-play"></i></a>
                                 {{-- <a class="fancybox overlay-inner" href="images/gal1.webp" data-fancybox-group="gallery"><i class=" icon-eye6"></i></a> --}}
                             </div>
                           </div>
